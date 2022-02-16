@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class FactsDetails extends StatelessWidget 
+class FactsDetails extends StatelessWidget {
   final String sender;
   final String time;
   final String subject;

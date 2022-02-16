@@ -1,4 +1,4 @@
-class Facts {
+class Facts 
   final int? id;
   final String sender;
   final String time;
